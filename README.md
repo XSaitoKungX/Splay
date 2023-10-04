@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <a href="https://github.com/XSaitoKungX"><img src="/Images/Splay.jpg" height="500" alt="Splay Discord Bot"></a>
+  <a href="https://github.com/XSaitoKungX"><img src="/logos/Splay.jpeg" height="500" alt="Splay Discord Bot"></a>
   <br>
   A multipurpose Discord bot, developed with ❤ by <a href="https://github.com/XSaitoKungX">XSaitoKungX</a>
   <br>
