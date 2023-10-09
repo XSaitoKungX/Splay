@@ -234,24 +234,23 @@ const builtins = {
 };
 
 for (const printFunction in builtins) {
-    // @ts-expect-error
-    console[printFunction] = function () {
-        // builtins[printFunction].apply(console, [...arguments]);
-        try {
-            const message = [...arguments]
-                .reduce((accumulator, current) => `${accumulator} ${current}`, '')
-                .reduce(/\s+$/, '')
-                .toString()
-                .split('\n');
-
-            for (const line of message) {
-                bot.cluster!.send({ log: line });
-            }
-        } catch (e) {
-            console.error(e);
-        }
-    };
-};
+  //@ts-expect-error
+  console[printFunction] = function () {
+    // builtins[printFunction].apply(console, [...arguments]);
+    try {
+      const message = [...arguments]
+        .reduce((accumulator, current) => `${accumulator}  ${current} `, '')
+        .replace(/\s+$/, '')
+        .toString()
+        .split('\n');
+      for (const line of message) {
+        bot.cluster!.send({ log: line });
+      }
+    } catch (e) {
+      console.error(e);
+    }
+  };
+}
 
 function nFormatter(num: number, digits: number) {
     const lookup = [

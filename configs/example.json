@@ -1,0 +1,23 @@
+{
+    "name": "",
+    "token": "",
+    "owners": [
+        "848917797501141052"
+    ],
+    "disabledPlugins": [],
+    "colors": {
+        "normal": "#2b2d31",
+        "error": "#eba1d0"
+    },
+    "emotes": {
+        "animated": {
+            "loading": "<a:loading:995182013587935302>"
+        },
+        "normal": {
+            "birthday": "<a:aol_party:991359136266735626>",
+            "check": "<:Umfrage_Ja:1140239619280097370>",
+            "error": "<:Umfrage_Nein:1140239635038093404>"
+        }
+    },
+    "prefix": "s+"
+}

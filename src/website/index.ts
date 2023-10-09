@@ -3,7 +3,7 @@ import { SplayBot } from '../utils/types';
 import path from 'path';
 export default function website(client: SplayBot) {
   const app = express();
-  const port = 28103;
+  const port = 28013;
 
   app.use(express.json());
   app.use(express.static('./src/website/public'));
@@ -52,6 +52,6 @@ export default function website(client: SplayBot) {
     renderTemplate(res, req, 'recommended.ejs');
   });
   app.listen(port, () => {
-    return console.log(`http://88.99.90.219:28013:${port}`);
+    return console.log(`http://88.99.90.219:${port}`);
   });
 }

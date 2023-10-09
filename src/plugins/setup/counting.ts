@@ -136,7 +136,7 @@ export class Counting {
   }
 
   @On()
-  async messageDelete([message]: ArgsOf<'messageDelete'>, client: AeonaBot) {
+  async messageDelete([message]: ArgsOf<'messageDelete'>, client: SplayBot) {
     if (message.author?.bot) return;
     try {
       const data = await schema.findOne({

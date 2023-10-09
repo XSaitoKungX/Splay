@@ -93,7 +93,7 @@ export default async function createDashboard(bot: SplayBot) {
         acceptPrivacyPolicy: true,
         minimizedConsoleLogs: true,
         redirectUri: `http://88.99.90.219:28015/discord/callback`,
-        domain: 'http://88.99.90.219:28015',
+        domain: 'http://88.99.90.219',
         ownerIDs: bot.config.owners,
         useThemeMaintenance: true,
         useTheme404: true,
@@ -169,7 +169,7 @@ export default async function createDashboard(bot: SplayBot) {
             sweetalert: {
                 errors: {
                     requirePremium:
-                        'You need to be a premium user to use this feature. Please get premium for just **$3.99** <a href="https://www.patreon.com/XSaitoKungX">here</a>.',
+                        'You need to be a premium user to use this feature. Please get premium for just **$3.99** <a href="https://www.patreon.com/xsaitokungx">here</a>.',
                 },
                 success: {
                     login: 'Successfully logged in.',
@@ -183,7 +183,7 @@ export default async function createDashboard(bot: SplayBot) {
                 ogTitle: 'Splay Dashboard',
                 ogImage: 'http://88.99.90.219:28013/logo.webp',
                 ogType: 'Theme',
-                ogUrl: 'http://88.99.90.219:28015',
+                ogUrl: 'http://88.99.90.219',
                 ogSiteName: 'Splay Dashboard',
                 ogDescription: 'The Dashboard for Splay Discord Bot.',
                 twitterTitle: 'The Dashboard for Splay Discord Bot.',
