@@ -14,7 +14,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg?style=flat-square&logo=github)](https://github.com/XSaitoKungX)
 [![Documentation](https://img.shields.io/badge/Documentation-Documentation-orange.svg?style=flat-square)](https://splay.gitbook.io/splay)
 [![Dashboard](https://img.shields.io/badge/Website-%20Website-red.svg?style=flat-square)](http://88.99.90.219:28013)
-[![Dashboard](https://img.shields.io/badge/Dashboard-%20Dashboard-green.svg?style=flat-square)](http://88.99.90.219:28015)
+<a href="http://88.99.90.219:28015" target="_blank">
+  <img src="https://img.shields.io/badge/Dashboard-%20Dashboard-green.svg?style=flat-square" alt="Dashboard">
+</a>
 
 </center>
 
