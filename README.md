@@ -13,7 +13,7 @@
 [![Discord Server](https://img.shields.io/discord/857622993702486067?color=blue&label=Discord%20Server&logo=discord&style=flat-square)](https://discord.gg/j4YwfmEtbx)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg?style=flat-square&logo=github)](https://github.com/XSaitoKungX)
 [![Documentation](https://img.shields.io/badge/Documentation-Documentation-orange.svg?style=flat-square)](https://splay.gitbook.io/splay)
-[![Dashboard](https://img.shields.io/badge/Dashboard-%20Website-green.svg?style=flat-square)](http://88.99.90.219:28013)
+[![Dashboard](https://img.shields.io/badge/Website-%20Website-red.svg?style=flat-square)](http://88.99.90.219:28013)
 [![Dashboard](https://img.shields.io/badge/Dashboard-%20Dashboard-green.svg?style=flat-square)](http://88.99.90.219:28015)
 
 </center>
