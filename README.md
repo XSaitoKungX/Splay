@@ -41,27 +41,26 @@ The Splay Discord Bot is a powerful and user-friendly bot developed to add funct
 ## Features 🚀
 - [x] Prefix
 - [x] Slash Commands
+- [x] AFK-System
+- [x] Anime
+- [x] Automoderation
+- [x] Birthday-System
+- [x] Bumpreminder
+- [x] Custom Embed
+- [x] Fun
+- [x] Games
+- [x] Image
+- [x] Infos
+- [x] Invite-System
+- [x] Level-System
+- [x] Moderation
+- [x] Owner
+- [x] Reaction Roles
+- [x] Setups
+- [x] Story
+- [x] Tools
 
 ## To-Do 📝
-
-- [ ] AFK-System
-- [ ] Anime
-- [ ] Automoderation
-- [ ] Birthday-System
-- [ ] Bumpreminder
-- [ ] Custom Embed
-- [ ] Fun
-- [ ] Games
-- [ ] Image
-- [ ] Infos
-- [ ] Invite-System
-- [ ] Level-System
-- [ ] Moderation
-- [ ] Owner
-- [ ] Reaction Roles
-- [ ] Setups
-- [ ] Story
-- [ ] Tools
 - [ ] Don't want to host the bot yourself?
 
 Before you can use Splay, make sure you meet the following requirements:
